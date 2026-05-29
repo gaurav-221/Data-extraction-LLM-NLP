@@ -1,0 +1,944 @@
+Discovery of Imidazo[1,2-b]thiazole Derivatives as Novel SIRT1 Activators
+Chi B. Vu,* Jean E. Bemis, Jeremy S. Disch, Pui Yee Ng, Joseph J. Nunes, Jill C. Milne, David P. Carney, Amy V. Lynch,
+Jesse J. Smith, Siva Lavu, Philip D. Lambert, David J. Gagne, Michael R. Jirousek, Simon Schenk,† Jerrold M. Olefsky,† and
+Robert B. Perni
+Sirtris Pharmaceuticals, 200 Technology Square, Cambridge, Massachusetts 02139
+ReceiVed September 5, 2008
+A series of imidazo[1,2-b]thiazole derivatives is shown to activate the NAD+-dependent deacetylase SIRT1,
+a potential new therapeutic target to treat various metabolic disorders. This series of compounds was derived
+from a high throughput screening hit bearing an oxazolopyridine core. Water-solubilizing groups could be
+installed conveniently at either the C-2 or C-3 position of the imidazo[1,2-b]thiazole ring. The SIRT1 enzyme
+activity could be adjusted by modifying the amide portion of these imidazo[1,2-b]thiazole derivatives. The
+most potent analogue within this series, namely, compound 29, has demonstrated oral antidiabetic activity
+in the ob/ob mouse model, the diet-induced obesity (DIO) mouse model, and the Zucker fa/fa rat model.
+Introduction
+There are seven known sirtuin members (SIRT1-SIRT7) in
+the histone deacetylase (HDACa) family commonly referred to
+as class III HDACs, and SIRT1 is the most characterized
+member of the family. Unlike classes I and II HDACs, SIRT1
+and other class III HDACs utilize nicotinamide adenine dinucleotide
+(NAD+) to catalyze protein deacetylation to afford
+nicotinamide and O-acetyl-ADP-ribose. Early studies have
+established an important link between SIRT1 and a number of
+metabolic functions that could possibly influence lifespan in
+lower organisms and rodents.1 Two of the known consequences
+of SIRT1 activation are up-regulation of PGC-1R and increase
+in mitochondrial biogenesis,2 both of which are beneficial
+biologic responses that are similarly induced by calorie
+restriction.3,4 Since an increase in mitochondrial biogenesis could
+lead to improved glucose metabolism in various skeletal, muscle,
+and adipose tissues, activation of SIRT1 could potentially serve
+as a novel approach to treat type II diabetes and other metabolic
+disorders.5 Recent work has shown that transgenic mice
+overexpressing SIRT1 are leaner than their control littermates
+and display a significantly improved metabolic profile such as
+lower levels of blood cholesterol, adipokines, insulin, and fasted
+blood glucose.6 Resveratrol, a small molecule activator of
+SIRT1, has been reported to extend lifespan in yeast,7 C.
+elegans, Drosophila,8 and rodents.9 In rodents, resveratrol, when
+dosed at 400 mg/kg over a period of 15 weeks, improves
+metabolism, glucose tolerance, and their overall physical
+performance in response to a rotarod or string test.2 Since
+resveratrol has been shown to activate SIRT1 only at high doses,
+because of its lower potency, there was an immediate need to
+identify potent and selective compounds for proof-of-concept
+studies. Recent high throughput screening efforts to find novel
+SIRT1 activators from our laboratories have resulted in the
+discovery of the oxazolopyridine derivative 1 (Figure 1), a
+significant new chemical entity that is structurally distinct from
+resveratrol.10
+Discussion
+In order to assess SIRT1 activation, a high throughput mass
+spectrometry enzymatic assay was used. Potency was displayed
+as the EC1.5, the concentration of compound required to increase
+enzyme activity by 50%, and the percent maximum activation
+that could be achieved at the highest doses of the compound
+being tested. In this type of assay, resveratrol has an EC1.5 value
+of 48 μM and a 250% maximum activation whereas the
+oxazolopyridine derivative 1 has a corresponding EC1.5 value
+of 11 μM and a 388% maximum activation. Preliminary work
+has already shown that the potency of this lead could be
+improved to a level that has not been observed before with
+resveratrol.10 We have since modified the oxazolopyridine
+moiety with a novel imidazo[1,2-b]thiazole ring and have noted
+a similar level of SIRT1 activation (2, EC1.5 ) 7.5 μM, 380%
+maximum activation). When an ortho substitution pattern was
+adopted at the middle phenyl ring, an increase in potency was
+observed (3, EC1.5 ) 2.5 μM, 272% maximum activation).
+The imidazo[1,2-b]thiazole ring offers the opportunity to
+install a variety of functional groups, such as amino derivatives,
+conveniently at either the C-2 or C-3 position of the molecule.
+As shown in Scheme 1, when ethyl 2-aminothiazole-4-carboxy-
+* To whom correspondence should be addressed. Phone: (617)-252-6920,
+extension 2129. Fax: (617)-252-6924. E-mail: cvu@sirtrispharma.com.
+† Present address: Department of Medicine, Division of Endocrinology
+and Metabolism, University of CaliforniasSan Diego, 9500 Gilman Drive,
+La Jolla, CA 92093.
+a Abbreviations: HDAC, histone deacetylase; NAD+, nicotinamide
+adenine dinucleotide; PGC-1R, peroxisome proliferator-activated receptor
+coactivator-1R; DIO, diet-induced obesity.
+Figure 1
+J. Med. Chem. 2009, 52, 1275–1283 1275
+10.1021/jm8012954 CCC: $40.75  2009 American Chemical Society
+Published on Web 02/06/2009
+Downloaded via NIPER KOLKATA on August 19, 2025 at 12:01:26 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+late 4 was treated with 2-bromo-1-(2-nitrophenyl)ethanone 5,
+the resulting imidazo[1,2-b]thiazole ethyl ester 6 could be
+obtained in good yield (79%).11 The ester group in 6 could be
+reduced to the corresponding alcohol 7 by a three-step sequence
+that involved hydrolysis of the ester group, followed by
+formation of the mixed anhydride and treatment with NaBH4
+(74% yield). In order to introduce amino derivatives at this
+position, the alcohol was first converted to the corresponding
+mesylate by treatment with methanesulfonyl chloride. Subsequent
+displacement with a variety of amines afforded intermediate
+8. The nitro group in 8 was then reduced to the corresponding
+amine and reacted with a variety of acid chlorides to form
+analogues shown in the general structure 10. An analogous
+synthetic sequence12 could essentially be repeated using ethyl
+2-aminothiazole-5-carboxylate 11 to eventually obtain the C-2
+substituted imidazo[1,2-b]thiazole derivatives of the general
+structure 12.
+Table 1 lists a small set of analogues that have been prepared
+to compare the difference in SIRT1 activity when methylamino
+derivatives were installed at either the C-2 or C-3 position of
+the imidazothiazole ring. Compounds 13 and 15, with water
+solubilizing groups at the C-2 position, showed SIRT1 activity
+comparable to that of compound 3. Similar substitution at the
+C3 position of the imidazo[1,2-b]thiazole ring also did not affect
+the level of SIRT1 activation significantly (compounds 14 and
+16). Introduction of these basic amino residues did, however,
+increase the water solubility of these derivatives quite substantially.
+Compound 3, for instance, had a water solubility
+concentration of less than 0.1 mg/mL, whereas compound 16
+had a water solubility of greater than 10 mg/mL (in pH 7.4
+buffer, the kinetic solubility of 16 was still greater than 100
+μM, as determined by HPLC methods). Because of its greater
+water solubility, compound 16 has enabled the use of isothermal
+titration calorimetry (ITC) to determine the binding energetics
+of this particular class of compounds to purified SIRT1 enzyme.
+In the presence of an acetylated peptide substrate, compound
+16 showed protein binding in a 1:1 stoichiometry with a
+dissociation constant (Kd) of 16.2 μM and an enthalpy (ΔH) of
+-6.1 kcal/mol.13 Interestingly, incorporation of the water soluble
+amino group at the C-3 position of the imidazo[1,2-b]thiazole
+ring improved the stability of the resulting molecule toward
+microsomes significantly. Compound 3 has a very short halflife
+in both mouse and human microsomes (mouse microsome,
+t1/2 ) 5 min; human microsome, t1/2 ) 10 min),14 whereas
+compound 16 showed good stability in both mouse and human
+microsomes (mouse microsome, t1/2 > 300 min; human microsome,
+t1/2 ) 112 min). More importantly, in a mouse PK
+experiment (po dosing of 100 mg/kg, iv dosing of 10 mg/kg,
+saline vehicle), compound 16 showed reasonably good oral
+bioavailability (F ) 40%, Cmax ) 14 μM, terminal t1/2 of 6 h,
+and terminal AUC ) 45 000 ng · h/mL).
+Scheme 1a
+a Reagents and conditions: (a) methyl ethyl ketone, reflux (79%); (b)
+LiOH, isobutyl chloroformate, DIEA, THF, NaBH4 (74%); (c) MsCl, Et3N;
+NHR1R2, DIEA; (d) NaHS, MeOH, H2O, reflux; (e) RCOCl, pyridine,
+microwave, 140 °C × 10 min; for NR1R2 ) Boc-piperazine, 25% TFA in
+CH2Cl2.
+Scheme 2a
+a Reagents and conditions: (a) toluene, EtOH, H2O, [1,1′-bis(diphenylphosphino)
+ferrocene]dichloropalladium(II) complex with CH2Cl2 (1:1),
+Na2CO3, 90 °C; (b) ethyl bromopyruvate, methyl ethyl ketone, reflux; (c)
+sodium hydrosulfide hydrate, MeOH, H2O, reflux; (d) 3,4,5-trimethoxybenzoyl
+chloride, pyridine, microwave, 160 °C × 10 min; (e) THF, H2O,
+NaOH.
+Table 1. Imidazo[1,2-b]thiazole Derivatives with Soluble Groups at the
+C-2 and C-3 Positions
+a EC1.5 values were determined from three separate titration curves. Each
+of the EC1.5 values shown represents the mean of three determinations, with
+variation in individual values of <15%.
+1276 Journal of Medicinal Chemistry, 2009, Vol. 52, No. 5 Vu et al.
+In terms of improving the potency of compound 16, the most
+accessible position was the amide portion. We have since varied
+this amide moiety and have observed a wide range of activity.
+Table 2 lists a small set of piperazine derivatives where the
+amide group has been changed. Unlike the trimethoxyphenyl
+derivative 16, the unsubstituted phenyl derivative 19 was
+significantly less potent. An aromatic group seemed be preferred
+at this position, since the cyclopentyl compound 17 and the
+benzyl compound 18 were not as active. However, removing
+just one or two methoxy groups found in 16 (see compounds
+20 and 22) did not appear to change the SIRT1 activity
+significantly. Moving one of the methoxy groups to the
+corresponding ortho position, as in 21, resulted in a substantial
+loss of SIRT1 activity. A single methoxy group, when used in
+combination with a fluoro group in either the 3,5- or 3,4-
+disubstitution pattern (23 or 24, respectively), also retained most
+of the SIRT1 activity. The 1,2-(methylenedioxy)benzene derivative
+25 was also equipotent to the trimethoxyphenyl derivative.
+When the methoxy group in 22 was replaced with the more
+metabolically stable trifluoromethoxy group found in 26, or the
+difluoromethylsulfide group found in 27, some improvement in
+potency was observed. Interestingly, replacing the trifluoromethoxy
+phenyl group with a 2-substituted quinoline still
+retained much of the SIRT1 activity (28, EC1.5 ) 0.99 μM,
+440% maximum activation). The 3-substituted quinoline 30 was
+slightly more active, but the 8-substituted quinoline 31 was
+significantly less active. Lastly, changing the 2-quinoline group
+to the corresponding 2-quinoxaline group resulted in a fairly
+Table 2. Imidazo[1,2-b]thiazole Derivatives with Varying Amide Groups
+a EC1.5 values were determined from three separate titration curves. Each of the EC1.5 values shown represents the mean of three determinations, with
+variation in individual values of <15%.
+Imidazo[1,2-b]thiazoles as SIRT1 ActiVators Journal of Medicinal Chemistry, 2009, Vol. 52, No. 5 1277
+significant increase in potency in this enzyme assay (29, EC1.5
+) 0.16 μM, 781% maximum activation). It is interesting to note
+that the level of SIRT1 activation is highly dependent on the
+presence of a hydrogen bond acceptor group adjacent to the
+amide portion of the imidazo[1,2-b]thiazole ring. Compound
+32, with a 2-susbtituted benzofuran, was still highly active.
+Compound 33, with a 5-substituted benzofuran and a hydrogen
+bond acceptor group more removed from the amide portion,
+was significantly less active. Similarly, compound 34, with a
+benzothiophene instead of a benzofuran, was significantly less
+active. A significant level of SIRT1 activation was restored even
+with a monocyclic pyrimidine ring as in compound 35. In order
+to maintain optimal SIRT1 activation, it is important to note
+the exact orientation of all the imidazo[1,2-b]thiazole analogues
+shown in Tables 1 and 2. Figure 2 illustrates the significant
+changes in SIRT1 activity when this important core ring is
+reversed. Compound 36, with an acid group at the C-2 position
+and an imidazo[1,2-b]thiazole ring in the configuration similar
+to that of 16, had an EC1.5 value of 0.4 μM (305% maximum
+activation). Compound 37, with the imidazo[1,2-b]thiazole ring
+reversed, showed almost no SIRT1 activation (EC1.5 > 50
+μM).15
+In addition to being one of the more potent analogues shown
+in Table 2, compound 29 also displayed significant oral
+bioavailability in the mouse (F ) 50%, Cmax ) 1.0 μM, terminal
+t1/2 ) 5 h, AUC ) 7900 ng · h/mL) as well as in the rat (F )
+25%, Cmax ) 0.32 μM, terminal t1/2 ) 8.4 h, AUC ) 3700 ng · h/
+mL).16 On the basis of its acceptable PK profile, compound 29
+was selected for further assessment in three different efficacy
+models for type 2 diabetes: the ob/ob mouse model, the dietinduced
+obesity (DIO) mouse model, and the Zucker fa/fa rat
+model. In the genetic model of type II diabetes, ob/ob deficient
+mice were placed on a high fat diet in order to induce a diabetic
+state (fasting glucose level of around 200 mg/dL). When these
+animals were orally dosed with 100 mg/kg of compound 29
+once daily, there was a significant reduction in fasting blood
+glucose level after just 1 week of treatment. As shown in Figure
+3a, a reduction of approximately 40% in blood glucose when
+compared with the vehicle group was observed at the 100 mg/
+kg dose. At a lower dose of 30 mg/kg po, once daily, there was
+no significant reduction in fasting glucose (data not shown).
+In the DIO model, mice that were on a high fat diet were
+dosed po once daily with 100 mg/kg of compound 29.
+Additional groups of animals used in this study included (1)
+the DIO mice (high fat diet) that were dosed with the vehicle,
+(2) the lean mice (regular chow) that were dosed with the
+vehicle, (3) the lean mice (regular chow) that were dosed with
+29 (100 mg/kg po daily), and (4) DIO mice (high fat diet) that
+were dosed with rosiglitazone (5 mg/kg po, once daily), one of
+the standards of care for type 2 diabetes. After 2 weeks of
+dosing, there was clearly a significant decrease in the fed blood
+glucose level, and that level was maintained over a 10-week
+treatment period. As shown in Figure 3b, a reduction of
+approximately 15-25% in blood glucose was observed at the
+100 mg/kg dose compared to the vehicle group. Similarly, the
+plasma insulin levels were reduced significantly after 2 weeks
+and remained down after this 10 week treatment (Figure 3c).17
+This effect of normalizing insulin level in DIO animals is also
+observed with rosiglitazone, a standard control used in the study.
+No overt sign of hypoglycemia was observed with the lean
+animals that were put on a regular chow diet and dosed with
+29 daily for 10 weeks. Compound 29 showed no overt signs of
+liver toxicity after 10 weeks of dosing. The clinical chemistry
+of the DIO animals that have been dosed with 29, as measured
+by the levels of AST, ALT, alkaline phosphatase, blood urea
+nitrogen, creatine, was normal and showed no statistically
+significant changes when compared with animals in the other
+three groups. The hematology, as determined by white blood
+count, red blood count, hemoglobin, and hematocrit, was also
+normal for the DIO animals that were dosed with 29 daily for
+10 weeks. Lastly, DIO animals that were dosed with 29 for 10
+weeks showed no significant changes in body weight at the
+conclusion of the study. The efficacious dose of 100 mg/kg for
+compound 29 in the DIO animals essentially represents the
+minimum effective dose, since animals dosed at 30 mg/kg po,
+once daily, did not show a significant decrease in blood glucose
+or insulin level (data not shown).
+In the genetic Zucker fa/fa rat model, animals, in groups of
+5, were dosed either with the vehicle or with 29 orally at 100
+mg/kg once daily for 4 weeks. After 3 weeks, animals that were
+dosed with 29 showed significantly lower fed blood glucose
+level (Figure 3d, glucose AUC of vehicle-treated animals )
+140 ( 5 mg· mL/dL; glucose AUC for 29-treated animals )
+110 ( 3 mg· mL/dL).18 During this period, a pyruvate tolerance
+test was also carried out. Figure 3e clearly showed a marked
+reduction in the production of glucose, which indicated a
+favorable decrease in hepatic gluconeogenesis. To further assess
+the insulin sensitivity, a hyperinsulinemic-euglycemic clamp
+was conducted after 4 weeks of treatment with 29. As shown
+in Figure 3f, the glucose infusion rate (GIR) needed to maintain
+the euglycemic state was significantly higher (approximately
+35%) with animals treated with 29. Similarly, the total glucose
+disposal rate (GDR) was also significantly higher, at approximately
+20% (Figure 3g).19 Thus, after 4 weeks of treatment
+with compound 29 (100 mg/kg po), diabetic Zucker fa/fa rats
+clearly demonstrated a marked improvement in glucose homeostasis
+and insulin sensitivity.
+For the initial safety assessment, 29 was evaluated against
+hERG and the IC50 was determined to be >10 μM (patch clamp
+method). Compound 29 also showed no CYP inhibition against
+five major isozymes (CYP1A, CYP2C19, CYP2C9, CYP2D6,
+and CYP3A4) up to the highest tested concentration of 25 μM.
+In order to evaluate the selectivity of 29 against other off-target
+receptors, a panel consisting of 40 receptors was used.20 For
+most of these receptors, 29 showed no significant inhibition at
+10 μM. For five of these receptors, however, 29 did show
+significant inhibition at 10 μM. The corresponding IC50 for each
+of these receptors has since been determined: adrenergic R2A
+(IC50 ) 2.83 μM); muscarinic M1 (IC50 ) 8.02 μM); muscarinic
+M2 (IC50 ) 6.28 μM); norepinephrine transporter (IC50 ) 2.47
+μM); sodium channel, site 2 (IC50 ) 3.37 μM). Compound 29
+was further evaluated for mutagenicity using the tester strain
+Salmonella typhimurium histidine auxotrophs TA98 and TA100.
+Frameshift mutagens are known to revert TA98 strain from
+auxotrophy to prototrophy, whereas TA100 strain is affected
+by mutagens that cause both frameshift and base pair substitution
+mutations.21 Under test conditions that either employ or do not
+Figure 2
+1278 Journal of Medicinal Chemistry, 2009, Vol. 52, No. 5 Vu et al.
+employ S9 activation, no positive mutagenic response was
+observed for 29 with both TA98 and TA100 strains.
+Conclusion
+In summary, a novel series of imidazo[1,2-b]thiazole derivatives
+is shown to be effective SIRT1 activators. A representative
+analogue within this series, compound 29, has been demonstrated
+to have oral efficacy in three different rodent models of
+type 2 diabetes. Even after 10 weeks of dosing in the DIO mice,
+29 was able to maintain a significantly lower level of fed glucose
+and insulin without affecting the body weight as well as the
+overall clinical chemistry and hematology. Compound 29 has
+been further demonstrated to have a reasonably clean safety
+profile (negative for hERG, CYP, and Ames). Its selectivity
+against undesired off-target receptors has also been determined
+to be acceptable. Thus, compound 29 represents a compelling
+new lead in the field of sirtuin research. Efforts aimed at
+thoroughly understanding the SAR of this series are ongoing,
+and the results will be disclosed in due course.
+Experimental Section
+General Chemistry Procedure. All proton or carbon nuclear
+magnetic resonance spectra were determined in the indicated solvent
+using either a Varian Unity 300 or Bruker AVANCE III 400
+instrument with the appropriate internal standard. Analytical HPLC
+was performed on an Agilent 1100 series HPLC equipped with a
+3.5 um Eclipse XDB-C18 (4.6 mm × 100 mm) column with the
+following conditions: CH3CN/H2O, modified with 0.1% formic acid
+mobile phase. Gradient elution: 5% hold (2 min), 5-95% gradient
+(11 min), 95-5% gradient (0.3 min), 5% hold (2.7 min), 15 min
+total run time. Flow rate: 0.8 mL/min. Low resolution MS was
+performed on an Agilent 1100 series LC/MSD/single quadrupole/
+electrospray platform. High resolution mass spectra were obtained
+with an Agilent 6210 time-of-flight LC/MS by flow injection
+(solvents are water and CH3CN with 0.1% formic acid). All
+preparative HPLC were carried out on a Shimadzu SIL-10AP that
+has been equipped with a Waters X-Bridge C18 column. All
+microwave reactions were conducted on a Biotage Initiator
+microwave synthesizer. Melting points were determined by differential
+scanning calorimetry (TA Instruments DSCQ200). Unless
+indicated otherwise, reagent-grade chemicals and solvents were
+purchased from Aldrich, Alfa, Lancaster, or Maybridge.
+Preparation of N-(2-(Imidazo[2,1-b]thiazol-6-yl)phenyl)-3,4,5-
+trimethoxybenzamide (3). Step 1. In a typical run, a solution of
+2-aminothiazole (123 mg, 1.23 mmol) and 2-bromo-2′-nitroacetophenone
+(300 mg, 1.23 mmol) in methyl ethyl ketone (15 mL)
+was stirred under reflux for 18 h. It was then cooled to room
+temperature and filtered. The filtrate was concentrated under reduced
+pressure. The resulting solids were taken up in 20 mL of EtOH,
+and 5 drops of concentrated HBr were added. The reaction mixture
+was stirred under reflux for 6 h. The reaction mixture was
+concentrated and taken up in 20 mL of dilute aqueous NaHCO3.
+The resulting solids were collected by filtration and dried to afford
+300 mg of the nitro intermediate. This material was taken up in 15
+mL of MeOH and 3 mL of water along with sodium hydrosulfide
+hydrate (414 mg, 6.72 mmol). The reaction mixture was stirred
+under reflux for 8 h. It was then cooled to room temperature and
+concentrated under reduced pressure. The aqueous layer was
+extracted with CH2Cl2. The combined organic layers were dried
+(Na2SO4) and concentrated under reduced pressure to afford 260
+mg of 2-imidazo[2,1-b]thiazol-6-ylphenylamine (98%). ESI-MS
+calcd for C11H9N3S: 215.05; found, 216 (M+ + H).
+Step 2. 2-Imidazo[2,1-b]thiazol-6-ylphenylamine (64 mg, 0.30
+mmol) was taken up in 1 mL of pyridine along with 70 mg of
+3,4,5-trimethoxybenzoyl chloride (0.30 mmol). The reaction mixture
+was stirred in a microwave reactor (160 °C × 10 min). The reaction
+mixture was cooled to room temperature and concentrated under
+reduced pressure. The resulting residue was purified by chromatography
+(9:1 CH2Cl2/MeOH) to afford N-(2-(imidazo[2,1-b]thiazol-
+6-yl)phenyl)-3,4,5-trimethoxybenzamide. 1H NMR (300 MHz,
+DMSO-d6) δ 8.70 (d, 1 H, J ) 8 Hz), 8.38 (s, 1 H), 8.04 (d, 1 H
+J ) 4 Hz), 7.81 (d, 1 H, J ) 8 Hz), 7.10-7.40 (m, 5 H), 3.92 (br
+s, 9 H). ESI-MS calcd for C21H19N13O4S: 409; found, 410 (M+ +
+H).
+Figure 3. Efficacy studies involving compound 29: (a) diabetic mice ob/ob model (1 week); (b) mice DIO, fed plasma glucose (10 weeks); (c)
+mice DIO, plasma insulin (10 weeks); (d) Zucker fa/fa rat, glucose (3 weeks); (e) Zucker fa/fa rat, pyruvate tolerance test (3 weeks); (f, g) Zucker
+fa/fa rat, glucose infuse rate (GIR) and glucose disposal rate (GDR) during hyperinsulinemic-euglycemic clamp (4 weeks). The ob/ob and DIO
+were carried out with 10 mice per group. The Zucker fa/fa study was done with 5 rats per group. In all efficacy studies, compound 29 was dosed
+100 mg/kg po daily using a vehicle consisting of water, 2% HPMC, and 0.2% DOSS. Rosiglitazone, a positive control in the DIO study, was dosed
+orally once a day at 5 mg/kg. Statistics were conducted as an ANOVA: one asterisk denotes p < 0.05; two asterisks denote p < 0.01.
+Imidazo[1,2-b]thiazoles as SIRT1 ActiVators Journal of Medicinal Chemistry, 2009, Vol. 52, No. 5 1279
+Preparation of Ethyl 6-(2-Nitrophenyl)imidazo[2,1-b]thiazole-
+3-carboxylate (6). In a typical run, ethyl 2- aminothiazole-4-
+carboxylate (Combi-blocks, 2.1 g, 0.0123 mol) was taken up in
+methyl ethyl ketone (25 mL) along with 2-bromo-2′-nitroacetophenone
+(3.0 g, 0.0123 mol). The reaction mixture was stirred under
+reflux for 18 h. It was then cooled to room temperature and filtered
+to remove some of the solids. The filtrate was concentrated under
+reduced pressure to afford 3.10 g of ethyl 6-(2-nitrophenyl)imidazo[
+2,1-b]thiazole-3-carboxylate (79%). 1H NMR (300 MHz,
+DMSO-d6): δ 8.39 ppm (br s, 1 H), 8.31 (br s, 1 H), 7.92 (d, 1 H,
+J ) 8 Hz), 7.82 (d, 1 H, J ) 7 Hz), 7.3-7.7 (m, 2 H), 4.4 (q, 2 H,
+J ) 7 Hz), 1.37 (t, 3 H, J ) 7 Hz). ESI-MS calcd for C14H11N3O4S:
+317; found, 318 (M+ + H).
+Preparation of (6-(2-Nitrophenyl)imidazo[2,1-b]thiazol-3-yl)-
+methanol (7). 6-(2-Nitrophenyl)imidazo[2,1-b]thiazole-3-carboxylic
+acid ethyl ester (14.50 g, 0.0458 mol) was taken up in 100 mL of
+THF and 100 mL of water containing 7.3 g of NaOH (4 equiv).
+The reaction mixture was stirred at room temperature for 18 h. It
+was then concentrated. The aqueous layer was washed once with
+CH2Cl2 and then acidified with 6 N HCl. The solids were collected
+by filtration and dried to afford 7.4 g of the acid intermediate. This
+material (7.4 g, 0.0256 mol) was taken up in 200 mL of anhydrous
+THF along with NMM (2.8 mL, 0.0256 mol) and cooled to 0 °C.
+Isobutyl chloroformate (3.35 mL, 0.0256 mol) was added, and the
+reaction mixture was stirred in the ice bath for 3 h. NaBH4 (0.97
+g, 0.0256 mol) was added as a solution in 30 mL of water. The
+reaction mixture was stirred at 0 °C for 45 min. It was then warmed
+to room temperature and concentrated. The aqueous layer was
+extracted with CH2Cl2. The combined organic layers were dried
+(Na2SO4) and concentrated to afford the crude product. Purification
+by chromatography (Isco, using a mixture of pentane/EtOAc)
+afforded 5.20 g of (6-(2-nitrophenyl)imidazo[2,1-b]thiazol-3-yl)-
+methanol (74%). 1H NMR (300 MHz, DMSO-d6): δ 8.14 ppm (br
+s, 1 H), 7.2-7.9 (m, 4 H), 7.16 (br s, 1 H), 5.65 (t, 1 H, J ) 7 Hz),
+4.6 (m, 2 H). ESI-MS, calcd for C26H29N5O4S: 275; found, 276
+(M+ + H).
+Preparation of N-(2-(3-((Dimethylamino)methyl)imidazo[2,1-
+b]thiazol-6-yl)phenyl)-3,4,5-trimethoxybenzamide (14). Step
+1. 6-(2-Nitrophenyl)imidazo[2,1-b]thiazol-3-yl)methanol (435 mg,
+1.58 mmol) was dissolved in 25 mL of CH2Cl2 along with 1 equiv
+of Et3N (0.330 mL). Methanesulfonyl chloride (1 equiv, 0.12 mL)
+was added, and the reaction mixture was warmed to room
+temperature and stirred for 15 min. It was then quenched with brine
+and extracted with CH2Cl2. The combined organic layers were dried
+(Na2SO4) and concentrated to afford the mesylate intermediate. This
+material was taken up in 4 mL of THF along with 4 mL of a 2 N
+dimethylamine solution in THF and stirred at room temperature
+for 3 h. The reaction mixture was concentrated, and the resulting
+residue was partitioned between CH2Cl2 and water. The organic
+layer was dried (Na2SO4) and concentrated to afford essentially
+quantitative yield of the product. This material was taken up in 6
+mL of MeOH and 1 mL of water along with 200 mg of sodium
+hydrosulfide hydrate. The resulting reaction mixture was stirred
+under reflux for 6 h. It was then cooled to room temperature, diluted
+with 100 mL of absolute EtOH and concentrated. The resulting
+residue was taken up in 20 mL of 9:1 CH2Cl2/MeOH and filtered.
+The filtrate was concentrated to afford 2-(3-((dimethylamino)methyl)
+imidazo[2,1-b]thiazol-6-yl)aniline.
+Step 2. 2-(3-((Dimethylamino)methyl)imidazo[2,1-b]thiazol-6-
+yl)aniline (0.3 mmol) was taken up in 1 mL of pyridine along with
+1 equiv (70 mg) of 3,4,5-trimethoxybenzoyl chloride. The reaction
+mixture was stirred in a microwave reactor (160 °C × 10 min). It
+was then cooled to room temperature and concentrated. The
+resulting crude product was purified by chromatography (Isco,
+gradient elution, CH2Cl2 to 95% CH2Cl2, 4% MeOH, and 1% Et3N)
+to afford N-(2-(3-((dimethylamino)methyl)imidazo[2,1-b]thiazol-
+6-yl)phenyl)-3,4,5-trimethoxybenzamide as a light-yellow solid. 1H
+NMR (300 MHz, DMSO-d6) δ 8.70 (d, 1 H, J ) 8 Hz), 8.20 (br
+s, 1 H), 7.90 (d, 1 H J ) 8 Hz), 7.10-7.40 (m, 6 H), 3.90 (br s, 9
+H), 3.80 (br s, 6 H), 3.20 (br s, 2 H). ESI-MS calcd for
+C24H26N4O4S: 466; found, 467 (M+ + H).
+Preparation of tert-Butyl 4-((6-(2-Aminophenyl)imidazo[2,1-
+b]thiazol-3-yl)methyl)piperazine-1-carboxylate (Intermediate 9,
+NR1R2 ) Boc-piperazine). 6-(2-Nitrophenyl)imidazo[2,1-b]thiazol-
+3-yl)methanol (1.0 g, 3.64 mmol) was dissolved in 100 mL of
+CH2Cl2 along with Et3N (0.51 mL, 3.64 mmol). Methanesulfonyl
+chloride (0.28 mL, 3.64 mmol) was added, and the reaction mixture
+was warmed to room temperature and stirred for 15 min. It was
+then quenched with brine and extracted with CH2Cl2. The combined
+organic layers were dried (Na2SO4) and concentrated to afford the
+mesylate intermediate. This material was taken up 4 mL of CH3CN
+along with Et3N (0.51 mL, 3.64 mmol) and Boc-piperazine (680
+mg, 3.64 mmol) and stirred at room temperature for 24 h. The
+reaction mixture was concentrated, and the resulting residue was
+partitioned between CH2Cl2 and water. The organic layer was dried
+(Na2SO4) and concentrated to afford essentially quantitative yield
+of the product. This material was taken up in 6 mL of MeOH and
+1 mL of water along with 200 mg of sodium hydrosulfide hydrate.
+The resulting reaction mixture was stirred under reflux for 24 h. It
+was then cooled to room temperature and concentrated under
+reduced pressure. The resulting residue was diluted with 2 mL of
+water and extracted with CH2Cl2. The combined organic layers were
+dried (Na2SO4) and concentrated to afford 0.90 g of tert-butyl 4-((6-
+(2-aminophenyl)imidazo[2,1-b]thiazol-3-yl)methyl)piperazine-1-carboxylate
+(60%). 1H NMR (300 MHz, DMSO-d6): δ 9.2 ppm (br s,
+1 H), 8.7 (br s, 1 H), 8.15 (s, 1 H), 8.10 (s, 1 H), 6.8-7.8 (m, 4 H),
+6.16 (br s, 2 H), 3.72 (br s, 2 H), 1.39 (br s, 9 H). ESI-MS calculated
+for C21H27N5O2S: 413, found, 414 (M+ + H).
+Preparation of 3,4,5-Trimethoxy-N-(2-(3-(piperazin-1-ylmethyl)
+imidazo[2,1-b]thiazol-6-yl)phenyl)benzamide (16). In a
+typical run, tert-butyl 4-((6-(2-aminophenyl)imidazo[2,1-b]thiazol-
+3-yl)methyl)piperazine-1-carboxylate (0.3 mmol) was taken up in
+1 mL of pyridine along with 3,4,5-trimethoxybenzoyl chloride (70
+mg, 0.3 mmol). The reaction mixture was heated in a Biotage
+microwave reactor (160 °C × 10 min), cooled to room temperature,
+and concentrated under reduced pressure. The resulting crude
+product was purified by chromatography (Isco, gradient elution,
+CH2Cl2 to 95% CH2Cl2, 4% MeOH, and 1% Et3N). The purified
+product was then treated with 2 mL of 25% TFA in CH2Cl2 for
+2 h. It was then concentrated and the resulting residue was triturated
+with Et2O to afford 335 mg of compound 18 as the TFA salt (MS,
+M+ + H ) 508). The hydrochloride salt of compound 18 could be
+prepared by first dissolving the corresponding TFA salt in water,
+neutralizing with NaHCO3 and extracting with CH2Cl2. The
+combined organic layers were dried (Na2SO4) and concentrated to
+afford the free base form of 18. This material was dissolved in
+50% aqueous CH3CN along 3 mol equiv of HCl (as 1 N HCl
+solution) and lyophilized to afford 18 as the HCl salt. Mp: 193.5
+°C (HCl salt). 1H NMR (300 MHz, DMSO-d6) δ 9.70 (br s, 1 H),
+9.0 (br s, 1 H), 8.88 (d, 1 H, J ) 8 Hz), 7.78 (d, 1 H, J ) 8 Hz),
+7.71 (br s, 1 H), 7.10-7.33 (m, 4 H), 4.58 (br s, 2 H), 3.92 (br s,
+9 H), 3.76 (br s, 2 H), 3.00-3.10 (m, 4H), 2.60-2.80 (m, 4 H).
+13C NMR (100 MHz, DMSO-d6): δ 47.56, 50.01, 56.15, 60.16,
+104.68, 111.52, 120.70, 120.93, 123.63, 126.89, 128.13, 130.13,
+136.01, 140.54, 144.43, 147.75, 152.86, 164.09. High-resolution
+MS calcd for C26H29N5O4S [M+ H]+ 508.2018; found, 508.2039.
+Preparation of N-(2-(3-(Piperazin-1-ylmethyl)imidazo[2,1-
+b]thiazol-6-yl)phenyl)quinoxaline-2-carboxamide (29). Essentially
+the same procedure as detailed in the preparation of 3,4,5-
+trimethoxy-N-(2-(3-(piperazin-1-ylmethyl)imidazo[2,1-b]thiazol-6-
+yl)phenyl)benzamide was employed except that 2-quinoxaloyl
+chloride was used. Mp: dec (HCl salt), 221.4 °C (freebase). 1H
+NMR (300 MHz, DMSO-d6) δ 9.60 (br s, 1 H), 8.88 (d, 1 H, J )
+8 Hz), 8.60 (br s, 1 H), 8.50 (s, 1 H), 8.0-8.30 (m, 5 H), 7.78 (d,
+1 H, J ) 8 Hz), 7.10-7.33 (m, 4 H), 3.90 (br s, 2 H), 3.00-3.10
+(m, 4H), 2.60-2.80 (m, 4 H). 13C NMR (100 MHz, DMSO-d6): δ
+47.49, 49.88, 111.45, 120.47, 121.84, 124.02, 127.04, 128.10,
+129.20, 129.23, 131.39, 132.15, 135.39, 139.54, 143.03, 143.80,
+144.36, 144.62, 147.76, 161.57. High resolution MS, calcd for
+C25H23N7OS [M + H]+ 470.1763; found, 470.1753.
+1280 Journal of Medicinal Chemistry, 2009, Vol. 52, No. 5 Vu et al.
+Preparation of Ethyl 6-(2-Nitrophenyl)imidazo[2,1-b]thiazole-
+2-carboxylate. In a typical run, ethyl 2-aminothiazole-5-carboxylate
+(Combi-blocks, 1.00 g, 5.81 mmol) was taken up in acetone (50
+mL) along with 2-bromo-2′-nitroacetophenone (1.42 g, 5.81 mmol)
+and stirred under reflux for 18 h. It was then filtered. The filtrate
+was concentrated to afford the intermediate amide (ESI-MS, M+
++ H ) 336). This material was taken up in 20 mL of EtOH along
+with 6 drops of concentrated HBr and stirred under reflux for 4 h.
+The reaction mixture was cooled to room temperature and
+concentrated. The resulting residue was diluted with dilute aqueous
+NaHCO3. The solids were collected by filtration and dried to afford
+1.5 g of ethyl 6-(2-nitrophenyl)imidazo[2,1-b]thiazole-2-carboxylate
+(84%). ESI-MS calcd for C14H11N3O4S: 317; found, 318 (M+ +
+H).
+Preparation of (6-(2-Nitrophenyl)imidazo[2,1-b]thiazol-2-yl)-
+methanol. Ethyl 6-(2-nitrophenyl)imidazo[2,1-b]thiazole-2-carboxylate
+(660 mg, 2.08 mmol) was dissolved in 12 mL of THF,
+and NaOH (4 equiv) was added as a solution in 10 mL of water.
+The reaction mixture was stirred at 50 °C for 12 h. It was then
+cooled to room temperature and concentrated. The aqueous layer
+was acidified to pH 5 with 6 N HCl. The solids were collected by
+filtration and dried to afford essentially quantitative yield of the
+acid. This material (2.08 mmol) was taken up in 20 mL of
+anhydrous THF along with NMM (0.23 mL, 2.08 mmol) and cooled
+in an ice bath. Isobutyl chloroformate (0.27 mL, 2.08 mmol) was
+added and the reaction mixture was stirred at 0 °C for 30 min.
+NaBH4 (80 mg, 2.08 mmol) was added as a solution in 5 mL of
+water. The reaction mixture was stirred at 0 °C for 30 min and
+then concentrated. The aqueous layer was extracted with CH2Cl2.
+The combined organic layers were dried (Na2SO4) and concentrated.
+Purification by chromatography (Isco, gradient elution using a
+mixture of CH2Cl2 and MeOH) afforded 190 mg of (6-(2-
+nitrophenyl)imidazo[2,1-b]thiazol-2-yl)methanol (33%). ESI-MS
+calcd for C12H9N3O3S: 275; found, 276 (M+ + H).
+Preparation of 2-(2-((Dimethylamino)methyl)imidazo[2,1-
+b]thiazol-6-yl)aniline. Essentially the same procedure used during
+the preparation of afford 2-(3-((dimethylamino)methyl)imidazo[2,1-
+b]thiazol-6-yl)aniline was employed except that (6-(2-nitrophenyl)
+imidazo[2,1-b]thiazol-2-yl)methanol was used as the starting
+material.
+Preparation of N-(2-(2-((Dimethylamino)methyl)imidazo[2,1-
+b]thiazol-6-yl)phenyl)-3,4,5-trimethoxybenzamide (13). 2-(2-
+((Dimethylamino)methyl)imidazo[2,1-b]thiazol-6-yl)aniline (0.3
+mmol) was taken up in 1 mL of pyridine along with 1 equiv (70
+mg) of 3,4,5-timethoxybenzoyl chloride. The reaction mixture was
+heated in a Biotage microwave reactor (160 °C × 10 min), cooled
+to room temperature, and concentrated under reduced pressure. The
+resulting crude product was purified by chromatography (Isco,
+gradient elution, CH2Cl2 to 95% CH2Cl2, 4% MeOH, and 1% Et3N)
+to afford N-(2-(2-((dimethylamino)methyl)imidazo[2,1-b]thiazol-
+6-yl)phenyl)-3,4,5-trimethoxybenzamide as a light-yellow solid. 1H
+NMR (300 MHz, DMSO-d6) δ 8.70 (d, 1 H, J ) 8 Hz), 8.31 (s, 1
+H), 7.99 (s, 1 H), 7.80 (d, 1 H, J ) 8 Hz), 7.10-7.40 (m, 4 H),
+5.80 (br s, 2 H), 4.00 (br s, 6 H), 3.92 (s, 3 H), 3.81 (s, 3 H), 3.75
+(s, 3 H). ESI-MS, calcd for C24H26N4O4S: 466; found, 467 (M+ +
+H).
+Preparation of tert-Butyl 4-((6-(2-aminophenyl)imidazo[2,1-
+b]thiazol-2-yl)methyl)piperazine-1-carboxylate. Essentially the
+same procedure used during the preparation of tert-butyl 4-((6-(2-
+aminophenyl)imidazo[2,1-b]thiazol-3-yl)methyl)piperazine-1-carboxylate
+was employed except that (6-(2-nitrophenyl)imidazo[2,1-
+b]thiazol-2-yl)methanol was used as the starting material.
+Preparation of 3,4,5-Trimethoxy-N-(2-(2-(piperazin-1-ylmethyl)
+imidazo[2,1-b]thiazol-6-yl)phenyl)benzamide (15). 4-[6-(2-
+Aminophenyl)imidazo[2,1-b]thiazol-2-ylmethyl]piperazine-1-carboxylic
+acid tert-butyl ester (0.2 mmol) was taken up in 1 mL of
+pyridine along with of 3,4,5-trimethoxybenzoyl chloride (47 mg,
+0.2 mmol). The reaction mixture was heated in a Biotage microwave
+reactor (160 °C × 10 min), cooled to room temperature, and
+concentrated under reduced pressure. The resulting crude product
+was purified by chromatography (Isco, gradient elution, CH2Cl2 to
+95% CH2Cl2, 4% MeOH, and 1% Et3N). The purified product was
+then treated with 2 mL of 25% TFA in CH2Cl2 for 2 h. It was then
+concentrated and the resulting residue was triturated with Et2O to
+afford 3,4,5-trimethoxy-N-(2-(2-(piperazin-1-ylmethyl)imidazo[2,1-
+b]thiazol-6-yl)phenyl)benzamide as the TFA salt. 1H NMR (300
+MHz, DMSO-d6) δ 8.70-8.80 (m, 1 H), 8.78 (br s, 1 H), 8.40 (s,
+1 H), 8.05 (s, 1 H), 7.80 (d, 1 H, J ) 8 Hz), 7.10-7.33 (m, 4 H),
+3.92 (br s, 6 H), 3.76 (br s, 2 H), 3.70 (s, 3 H), 3.00-3.10 (m,
+4H), 2.60-2.80 (m, 4 H). ESI-MS calcd for C26H29N5O4S: 507;
+found 508 (M+ + H).
+Preparation of Methyl 2-(2-Aminophenyl)imidazo[2,1-b]thiazole-
+6-carboxylate (37). Step 1. Preparation of 5-(2-Nitrophenyl)
+thiazol-2-amine (40). In a typical run, 2-amino-5-bromothiazole
+monohydrobromide 38 (5.00 g, 0.0192 mol) was taken up in 40
+mL of toluene, 40 mL of ethanol, and 20 mL of water. 2-Nitrophenylboronic
+acid 39 (3.2 g, 0.0192 mol) was added, along with
+2.35 g of [1,1′-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+complexed with CH2Cl2 (1:1) and 6.10 g of anhydrous sodium
+carbonate. The reaction mixture was stirred at 90 °C for 18 h. It
+was then cooled to room temperature and concentrated. The
+resulting residue was taken up in 500 mL of EtOAc and washed
+with water (3 × 50 mL). The organic layer was filtered to remove
+the black precipitate. The filtrate was extracted with dilute 1 N
+HCl. The combined aqueous layers were concentrated to near
+dryness. The resulting residue was purified by preparative HPLC
+using a mixture of aqueous acetonitrile that has been buffered with
+0.1% TFA to afford 108 mg of 5-(2-nitrophenyl)thiazol-2-amine
+(MS, M+ + H ) 222). 1H NMR (300 MHz, DMSO-d6) δ 8.00 (d,
+1 H, J ) 8 Hz), 7.35-7.80 (m, 3 H), 7.20 (s, 1 H), 4.90 (br s, 2
+H). ESI-MS calcd for C9H7N3O2S: 221; found, 222 (M+ + H).
+Step 2. Preparation of Ethyl 2-(2-Nitrophenyl)imidazo[2,1-
+b]thiazole-6-carboxylate (41). 5-(2-Nitrophenyl)thiazol-2-amine
+(100 mg, 0.452 mmol) was taken up in 10 mL of methyl ethyl
+ketone along with 1.5 equiv of ethyl bromopyruvate. The reaction
+mixture was stirred under reflux for 5 h. The reaction mixture was
+cooled to room temperature and concentrated. The crude product
+was purified by chromatography (Isco, gradient elution, CH2Cl2 to
+9:1 CH2Cl2/MeOH) to afford 60 mg of ethyl 2-(2-nitrophenyl)imidazo[
+2,1-b]thiazole-6-carboxylate. 1H NMR (300 MHz, DMSOd6)
+δ 8.42 (s, 1 H), 8.20 (s, 1 H), 8.00 (d, 1 H, J ) 8 Hz), 7.35-7.80
+(m, 3 H), 4.2 (q, 2H, J ) 7 Hz), 1.2 (t, 3 H, J ) 7 Hz). ESI-MS
+calcd for C14H11N3O4S: 317; found, 318 (M+ + H).
+Step 3. Preparation of Methyl 2-(2-Aminophenyl)imidazo[2,1-
+b]thiazole-6-carboxylate. Ethyl 2-(2-nitrophenyl)imidazo[2,1-
+b]thiazole-6-carboxylate (60 mg, 0.189 mmol) was taken up in 3
+mL of MeOH along with sodium hydrosulfide hydrate (32 mg,
+0.567 mmol) in 1 mL of water. The reaction mixture was stirred
+under reflux for 1 h and monitored by LC/MS. Reduction of the
+nitro group was complete at this point, and the ethyl ester group
+had been exchanged to the corresponding methyl ester derivative.
+The reaction mixture was cooled to room temperature and
+concentrated under reduced pressure. The aqueous layer was
+extracted with CH2Cl2. The combined organic layers were dried
+(Na2SO4) and concentrated to afford essentially quantitative yield
+of methyl 2-(2-aminophenyl)imidazo[2,1-b]thiazole-6-carboxylate.
+1H NMR (300 MHz, DMSO-d6) δ 8.42 (s, 1 H), 8.20 (s, 1 H),
+7.35-7.80 (m, 3 H), 6.80 (d, 1 H, J ) 8 Hz), 3.90 (s, 3 H). ESIMS
+calcd for C13H11N3O2S: 273; found 274 (M+ + H).
+Step 4. Preparation of 2-(2-(3,4,5-Trimethoxybenzamido)phenyl)
+imidazo[2,1-b]thiazole-6-carboxylic Acid (37). Methyl 2-(2-
+aminophenyl)imidazo[2,1-b]thiazole-6-carboxylate (27 mg, 0.095
+mmol) was taken up in 1 mL of pyridine along with 22 mg of
+3,4,5-trimethoxybenzoyl chloride. The reaction mixture was heated
+in a microwave reactor (160 °C × 10 min), cooled to room
+temperature, and concentrated under reduced pressure. The resulting
+crude product was purified by preparative HPLC using a mixture
+of aqueous acetonitrile that had been buffered with 0.1% TFA to
+afford 9 mg of methyl 2-(2-(3,4,5-trimethoxybenzamido)phenyl)
+imidazo[2,1-b]thiazole-6-carboxylate. This material was taken
+up in 1 mL of THF, and sodium hydroxide (10 mg) was added as
+a solution in 1 mL of water. The reaction mixture was stirred at
+Imidazo[1,2-b]thiazoles as SIRT1 ActiVators Journal of Medicinal Chemistry, 2009, Vol. 52, No. 5 1281
+room temperature for 4 h and then concentrated. The resulting crude
+product was purified by preparative HPLC using a mixture of
+aqueous acetonitrile that has been buffered with 0.1% TFA to afford
+2-(2-(3,4,5-trimethoxybenzamido)phenyl)imidazo[2,1-b]thiazole-6-
+carboxylic acid. 1H NMR (300 MHz, DMSO-d6) δ 10.2 (s, 1 H),
+8.30 (s, 1 H), 8.20 (s, 1 H), 7.78 (d, 1 H, J ) 8 Hz), 7.30-7.35
+(m, 3 H), 7.20 (br s, 2 H), 3.90 (br s, 6 H), 3.85 (s, 3 H). ESI-MS
+calcd for C22H19N3O6S: 453; found, 454 (M+ + H).
+Protein Expression and Purification. Human SIRT1 was
+expressed in E. coli BL21Start (DE) (Invitrogen) as an N-terminal
+fusion to a hexahistidine affinity tag. The protein was purified by
+Ni2+ chelate chromatography followed by size exclusion and ion
+exchange chromatography. The resulting protein was typically
+>95% pure as assessed by SDS-PAGE. The human SIRT1-E5c
+and SIRT1-A, B, D, E, F, G, H were expressed with a hexahistidine
+affinity tag at the C-terminus. The truncated proteins were expressed
+in E. coli BL21Start (DE3) and purified by Ni2+ chelate chromatography.
+SIRT1-E5c was purified with an additional ion exchange
+step.
+SIRT1 Mass Spectrometry Assay. The mass spectrometry based
+assay utilizes a 20 amino acid peptide substrate (Ac-Glu-Glu-
+Lys(biotin)-Gly-Gln-Ser-Thr-Ser-Ser-His-Ser-Lys(Ac)-Nle-Ser-Thr-
+Glu-Gly-Lys(MR121 or Tamra)-Glu-Glu-NH2) derived from the
+sequence of p53. The peptide was N-terminally linked to biotin
+and C-terminally modified with a fluorescent tag. The mass
+spectrometry assay was conducted as follows: 0.5 μM peptide
+substrate, 120 μM NAD+, 10 nM SIRT1, and reaction buffer (50
+mM Tris-acetate, pH 8, 137 mM NaCl, 2.7 mM KCl, 1 mM MgCl2,
+5 mM DTT, 0.05% BSA). Reactions were incubated for 25 min at
+25 °C. Test compounds were added to the reaction or vehicle
+control, DMSO. After the incubation with SIRT1, 10% formic acid
+with 50 mM nicotinamide (Sigma) was added to stop the reaction.
+The mass spectrometry analysis was performed by Biotrove, Inc.
+Determination of the mass of the substrate peptide allows for precise
+determination of the degree of acetylation (i.e., substrate) compared
+to deacetylated peptide (product).
+Pharmacokinetic Studies. Compound 29 in vehicle (2% HPMC
++ 0.2% DOSS) was administered via oral gavage to C56BL/6 male
+mice (18-22 g; 3 mice per dose group per time point) at the doses
+indicated. For all in vivo studies, compound 29 was dosed as the
+hydrochloride salt. Mice were sacrificed by CO2 asphyxiation, and
+blood was collected at 5, 30, 120, and 360 min after dosing. Blood
+was collected, and plasma was sent to Charles River Laboratories
+(CRL) for drug level analysis. To determine oral bioavailability,
+compound 29 in vehicle (10% ethanol/40% polyethylene glycol/
+50% H2O) was administered into the tail vein of C57BL/6 male
+mice (18-22 g, 3 mice per dose group per time point) at the doses
+indicated. Blood was collected at the 5, 30, 120, and 360 min and
+analyzed for drug levels as described above.
+Compound 29 was administered via oral gavage to Sprague-
+Dawley male rats (250 g, 3 rats per dose group) at 100 mg/kg in
+vehicle (2% HPMC + 0.2% DOSS). Blood was collected at 0.033,
+0.083, 0.25, 0.5, 1, 2, 4, 6, 8, and 24 h postdose and analyzed for
+drug levels. To determine oral bioavailability, compound 29 was
+administered into the tail vein at 10 mg/kg doses. Compound 29
+was administered in 10% ethanol/ 40% polyethylene glycol/50%
+H2O for iv studies. Blood was collected and analyzed as described
+above.
+Diet-Induced Obesity Model. Nine-week old C57BL/6 male
+mice (Charles River Laboratories) were fed a high fat diet (60%
+calories from fat, Research Diets) until their mean body weight
+reached approximately 40 g. The mice were divided into test groups
+(6-10 per group). The indicated compounds were dosed once daily
+via oral gavage (100 mg/kg for compound 29, 5 mg/kg for
+rosiglitazone). The vehicle used was 2% HPMC + 0.2% DOSS.
+Individual mouse body weights were measured twice weekly. At
+the 2, 4, 6, 8, and 10 weeks of dosing a fed glucose measure was
+taken, and after 5 weeks of treatment an IPGTT was conducted on
+all mice from each of the groups. After 10 weeks of treatment, an
+ITT was conducted. Statistical analysis was completed using the
+JMP program (version 6). Data were analyzed by a one-way
+ANOVA with comparison to control using a Dunnett’s Test. A p
+value of <0.05 indicated a significant difference between groups.
+ob/ob Model. ob/ob mice and heterozygous ob/+ mice were
+received at 6 weeks of age (Jackson Laboratories, Bar Harbor, ME).
+Mice were placed on a high fat diet (60% calories from fat, Research
+Diets) for a minimum of 1 week prior to the start of a study and
+remained on the high fat diet for the duration of the study. After 1
+week of acclimation, all mice were weighed and blood glucose
+measurements were taken. The average body weight of the ob/ob
+mice used in the study were about 40-50 g. All mice were sorted
+by body weight and glucose levels and then were allocated into
+groups. Animals were dosed with either compound 29 (100 mg/
+kg) or vehicle (2% HPMC + 0.2% DOSS) once daily by oral
+gavage. Blood glucose and insulin were determined as described
+above. Statistical analysis was completed using the JMP program
+(version 6). Data were analyzed by a one-way ANOVA with
+comparison to control using Dunnett’s test. A p value of <0.05
+indicated a significant difference between groups.
+Zucker fa/fa Model. Six-week old male fatty (fa/fa) Zucker (ZF)
+rats (Harlan Sprague-Dawley, Inc.) were housed individually under
+controlled light (12:12 light:dark) and temperature conditions. At
+7 weeks of age animals were randomly assigned to receive either
+compound 29 or vehicle (2% HPMC + 0.2% DOSS). The drug or
+vehicle was administered by oral gavage on a daily basis (between
+3-5 pm) for 4 weeks, and animals had ad libitum access to food
+and water. All experimental procedures were approved by the
+Animal Subjects Committee at UCSF according to NIH guidelines.
+The night before beginning the drug treatment, animals were
+overnight fasted (12 h). The following morning (day 1) blood
+glucose concentration was measured (OneTouch Ultra, LifeScan,
+Inc.) and a blood sample was taken in a heparinized capillary tube
+from the tail vein. This sample was centrifuged at 13 000 rpm for
+5 min, and the plasma was stored at -80 °C for analysis. This
+procedure was subsequently repeated during the first 3 weeks of
+drug treatment (i.e., days 8, 15, and 22). Also, in the afternoon of
+day 22, a fed blood glucose measurement was taken from the tail
+vein.
+Zucker fa/fa Pyruvate Tolerance Test. On day 22, after the
+overnight fast (and blood collection), rats were injected (1 g/kg
+body weight) intraperotineal with sodium pyruvate (0.36 g/mL),
+diluted with 0.9% NaCl. Blood glucose (tail vein) was measured
+(OneTouch Ultra, LifeScan, Inc.) at 0, 30, 40, 50, 60, and 90 min
+after injection.
+Zucker fa/fa Oral Glucose Tolerance Test. On day 26 of
+treatment, after a short fast (5 h), rats were orally gavaged (1 g/kg
+body weight) with dextrose (Hospira, Inc.). Blood glucose (tail vein)
+was measured (OneTouch Ultra, LifeScan, Inc.) at 0, 15, 30, 60,
+and 90 min, and additional blood samples were also collected in
+heperanized tubes at 0, 15, 30, and 60 min. These samples were
+centrifuged at 13 000 rpm for 5 min, and the plasma was stored at
+-80 °C for analysis of plasma insulin concentration.
+Hyperinsulinemic-Euglycemic Clamp. Five days before conducting
+clamp experiments, animals (10 weeks of age) were
+chronically cannulated under single-dose anesthesia (42 mg/kg
+ketamine HCl, 5 mg/kg xylazine, 0.75 mg/kg acepromazine maleate;
+administered intramuscularly) in the jugular vein for infusion of
+glucose, tracer, and insulin (dual cannula internal diameter [i.d.]
+0.03 cm; Dow Corning Silastic, Midland, MI) and in the carotid
+artery (Intramedic polyethylene tubing PE-50; Clay Adams, Becton
+Dickinson, Sparks, MD) for blood sampling. All cannulae were
+tunneled subcutaneously, were exteriorized at the back of the neck,
+and were encased in an infusion harness (catalog no. CIH105;
+Instech Laboratories, Inc.).
+The evening before the hyperinsulinemic-euglycemic clamp,
+animals were fasted overnight for 8 h. Ninety minutes before the
+clamp, animals were weighed and infusion lines were connected.
+Throughout the clamp animals were unrestrained in their standard
+rat cage and had free access to water. The two infusion lines were
+connected from the infusion pumps (KDS101; KD Scientific, Inc.)
+to a low-torque dual channel quartz-lined swivel (catalog no. 375/
+D/22QM; Instech Laboratory, Inc.), which was then connected to
+1282 Journal of Medicinal Chemistry, 2009, Vol. 52, No. 5 Vu et al.
+the jugular vein cannulas. This setup allowed unrestrained movements
+in all directions. At -60 min a priming dose of 7.5 μCi of
+D-[3-3H]glucose (Perkin-Elmer, Inc.) was administered into the
+carotid, and a constant-rate (0.167 μCi/min, 16.7 μL/min) infusion
+of D-[3-3H]glucose was started at -70 min. Blood samples (25 μL
+in duplicate) were taken at -10 and 0 min for measurement of
+tracer specific activity and basal hepatic glucose production. At
+time 0 min (i.e., after 60 min of tracer equilibration), glucose
+(variable infusion, 50% dextrose; Hospira, Inc.) and tracer-plusinsulin
+(25 (mU/kg)/min; Humulin R; Eli Lilly and Co.) infusions
+were started simultaneously. Small blood samples (5 μL) were
+drawn from the carotid artery at 10 min intervals and immediately
+analyzed for glucose (OneTouch Ultra, LifeScan, Inc.). The glucose
+infusion was adjusted to maintain blood glucose at 100 mg/dL.
+Blood samples (25 μL in duplicate) were taken at 110 and 120
+min for measurement of tracer specific activity. In addition, larger
+blood samples (150 μL) were taken at 0 and 120 min for
+determination of insulin and free fatty acid concentrations. All blood
+samples were immediately centrifuged (13000g for 5 min), and
+plasma was stored at -80 °C for subsequent analysis.
+Acknowledgment. We thank Lei Jin and Hongying Yang
+for carrying out the isothermal titration calorimetry, and Can
+Ozbal and William Lamarr from BioTrove, Inc. for running the
+mass spectrometry samples during the determination of the EC1.5
+values.
+Supporting Information Available: Additional analytical data
+for compounds 3, 13-16, 29, and 37. This material is available
+free of charge via the Internet at http://pubs.acs.org.
+References
+(1) For a review on the sirtuins, see the following: Shaday, M.; Sinclair,
+D. Sirtuins in Mammals: Insight into Their Biological Function.
+Biochem. J. 2007, 404, 1–13.
+(2) Lagouge, M.; Argmann, C.; Gerhart-Hines, Z.; Meziane, H.; Lerin,
+C.; Daussin, F.; Messadeq, N.; Milne, J.; Lambert, P.; Elliott, P.; Geny,
+B.; Laakso, M.; Puigserver, P.; Auwerx, J. Resveratrol Improves
+Mitochondrial Function and Protects against Metabolic Disease by
+Activating SIRT1 and PGC-1R. Cell 2006, 127, 1109–1122.
+(3) Cohen, H. Y.; Miller, C.; Bitterman, K. J.; Wall, N. R.; Hekking, B.;
+Kessler, B.; Howitz, K. T.; Gorospe, M.; de Cabo, R.; Sinclair, D. A.
+Calorie Restriction Promotes Mammalian Cell Survival by Inducing
+the SIRT1 deacetylase. Science 2004, 305, 390–392.
+(4) Bordone, L.; Guarante, L. Calorie Restriction, SIRT1 and Metabolism:
+Understanding Longevity. Nat. ReV. Mol. Cell Biol. 2005, 6, 298–
+305.
+(5) Hollander, P. Anti-Diabetes and Anti-Obesity Medications: Effects
+on Weight in People with Diabetes. Diabetes Spectrum 2007, 20, 159–
+166.
+(6) Bordone, L.; Cohen, D.; Robinson, A.; Motta, M. C.; van Veen, E.;
+Czopik, A.; Steele, A. D.; Crowe, H.; Marmor, S.; Luo, J.; Gu, W.;
+Guarente, L. SIRT1 Transgenic Mice Show Phenotypes Resembling
+Calorie Restriction. Aging Cell 2007, 6, 759–767.
+(7) Lamming, D. W.; Wood, J.; G.; Sinclair, D. A. Small Molecules That
+Regulate Lifespan: Evidence for Xenohormesis. Mol. Microbiol. 2004,
+53, 1003–1009.
+(8) Wood, J. G.; Rogina, B.; Lavu, S.; Howitz, K.; Helfand, S. L.; Tatar,
+M.; Sinclair, D. Sirtuin Activators Mimic Caloric Restriction and Delay
+Ageing in Metazoans. Nature 2004, 430, 686–689.
+(9) Bauer, J. A.; Pearson, K. J.; Price, N. L.; Jamieson, H. A.; Lerin, C.;
+Kalra, A.; Prabhu, V. V.; Allard, J. S.; Lopez-Lluch, G.; Lewis, K.;
+Pistell, P. J.; Poosala, S.; Becker, K. G.; Boss, O.; Gwinn, D.; Wang,
+M.; Ramaswamy, S.; Fishbein, K. W.; Spencer, R. G.; Lakatta, E. G.;
+Le Couteur, D.; Shaw, R. J.; Navas, P.; Puigserver, P.; Ingram, D. K.;
+de Cabo, R.; Sinclair, D. A. Resveratrol Improves Health and Survival
+of Mice on a High-Calorie Diet. Nature 2006, 444, 337–342.
+(10) Bemis, J. E.; Carney, D. P.; Disch, J. S.; Iffland, A.; Jin, L.; Jirousek,
+M. R.; Lavu, S.; Lynch, A. V.; Milne, J. C.; Ng, P. Y.; Nunes, J. J.;
+Smith, J. J.; Vu, C. B.; Xie, R. L.; Perni, R. B. Discovery of
+Oxazolo[4,5-b]pyridines and Related Heterocyclic Analogs as Novel
+SIRT1 Activators. Abstracts of Papers, 235th National Meeting of
+the American Chemical Society, New Orleans, LA, April 6-10, 2008;
+American Chemical Society: Washington, DC, 2008; MEDI-242.
+(11) Sundberg, R. J.; Dahlhausen, D. J.; Manikumar, G.; Mavunkel, B.;
+Biswa, A.; Srinivasan, V.; King, F.; Waid, P. Preparation of 2-Aryl
+and 2-(Aryloxymethyl)imidazo[1,2-a]pyridines and Related Compounds.
+J. Heterocycl. Chem. 1988, 25, 129–137.
+(12) For procedures to prepare analogues of the general structure 12, consult
+the Supporting Information.
+(13) For more comprehensive data on the binding energetics, functional
+activity in cellular assays, and discussion on mechanism of SIRT1
+activation of these imidazo[1,2-b]thiazole derivatives, see the
+following: Milne, J. C.; Lambert, P. D.; Schenk, S.; Carney, D. P.;
+Smith, J. J.; Gagne, D. J.; Jin, L.; Boss, O.; Perni, R. B.; Vu, C. B.;
+Bemis, J. E.; Xie, R.; Disch, J. S.; Ng, P. Y.; Nunes, J. J.; Lynch,
+A. V.; Yang, H.; Galonek, H.; Israelian, K.; Choy, W.; Iffland, A.;
+Lavu, S.; Sinclair, D.; Olefsky, J. M.; Jirousek, M. R.; Elliott, P. J.;
+Westphal, C. H. Novel Small Molecule Activators of SIRT1 as
+Therapeutics for Treatment of Type 2 Diabetes. Nature 2007, 450,
+712–716.
+(14) The instability of C2 and C3 unsubstituted imidazo[1,2-b]thiazole
+derivatives has previously been noted in the following: Trimble, L. A.;
+Chauret, N.; Silva, J. M.; Nicoll-Griffith, D. A.; Li, C.-S.; Yergey,
+J. A. Characterization of the in Vitro Oxidative Metabolites of the
+COX-2 Selective Inhibitor L-766,112. Bioorg. Med. Chem. Lett. 1997,
+7, 53–56.
+(15) Compound 37 was prepared according to the sequence outlined in
+Scheme 2. The aminothiazole derivative 40 was obtained by a
+palladium coupling reaction between the bromide 38 and the boronic
+acid 39. The imidazothiazole derivative 41 could then be obtained by
+reacting 40 with ethyl bromopyruvate. Standard reduction of the nitro
+group with sodium hydrosulfide hydrate followed by amide coupling
+and ester hydrolysis afforded derivative 37.
+(16) For both the mouse and rat PK, 29 was dosed at 100 mg/kg orally
+and 10 mg/kg iv; the vehicle was water containing 2% HPMC and
+0.2% DOSS.
+(17) Intraperitoneal glucose tolerance test and an insulin tolerance test of
+29 in a DIO study were also conducted; see ref 13 for additional details.
+(18) For additional data concerning glucose metabolism and insulin
+responses during an oral glucose tolerance test, see ref 13.
+(19) For additional data on the insulin-stimulated glucose disposal rate,
+hepatic glucose suppression, and plasma free fatty acid concentration
+during the hyperinsulinemic-euglycemic clamp, see ref 13.
+(20) Panel of 40 receptors consisted of the following: ATPase, Na+/K+,
+heart; cyclooxygenase COX-2; deacetylase, histone; monoamine
+oxidase MAO-A; phosphodiesterase PDE4; protein tyrosine kinase,
+FLT1 (VEGFR-1); adenosine A1; adenosine A2A; adrenergic R1,
+nonselective; adrenergic R2A; adrenergic 1; adrenergic 2; angiotensin
+AT1; calcium channel L-type, benzothiazepine; cannabinoid CB1;
+cannabinoid CB2; cholecystokinin CCK1 (CCKA); cholecystokinin
+CCK2 (CCKB); dopamine D1; dopamine D2S; GABAA, flunitrazepam,
+central; GABAA, muscimol, central; GABAB1B; glucocorticoid;
+glutamate, NMDA, agonism; histamine H1; muscarinic M1; muscarinic
+M2; muscarinic M3; nicotinic acetylcholine R1, bungarotoxin; nicotinic
+acetylcholine R7, bungarotoxin; opiate δ (OP1, DOP); opiate κ (OP2,
+KOP); opiate μ (OP3, MOP); potassium channel [KATP]; serotonin
+(5-hydroxytryptamine) 5-HT1A; serotonin (5-hydroxytryptamine)
+5-HT3; sodium channel, site 2; thyroid hormone; norepinephrine
+transporter (NET).
+(21) Ames, B. N.; McCann, J.; Yamasaki, E. Methods for Detecting
+Carcinogens and Mutagens with the Salmonella/Mammalian Microsome
+Mutagenicity Test. Mutat. Res. 1975, 31, 347–364.
+JM8012954
+Imidazo[1,2-b]thiazoles as SIRT1 ActiVators Journal of Medicinal Chemistry, 2009, Vol. 52, No. 5 1283

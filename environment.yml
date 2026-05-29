@@ -1,0 +1,16 @@
+name: biomedical_nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pandas>=2.0
+  - pip>=23.0
+  - pip:
+    # HTTP / API calls
+    - requests>=2.31.0
+    # PDF Processing
+    - pymupdf>=1.24.0
+    - pdfplumber>=0.11.0
+    # NOTE: Ollama runs separately as a system service
+    # Install Ollama from: https://ollama.com/download

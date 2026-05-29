@@ -1,0 +1,14 @@
+# CYP Inhibition Extractor — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# HTTP / API
+requests>=2.31.0
+
+# Data wrangling
+pandas>=2.0.0
+
+# PDF Processing — text, images, metadata
+pymupdf>=1.24.0
+
+# Table extraction from PDFs
+pdfplumber>=0.11.0

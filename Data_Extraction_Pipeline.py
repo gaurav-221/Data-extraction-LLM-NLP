@@ -2,38 +2,6 @@
 """
 Biomedical NLP Knowledge Extractor — Generalized Publication-Grade Pipeline
 ============================================================================
-Version: 3.0.0
-License: MIT
-
-Purpose: AI-augmented extraction of biomedical target (protein/gene/drug)
-         interaction data from literature. Fully query-driven — adapts to any target.
-
-Architecture
------------
-Stage 1 – Target Configuration
-    User provides a natural-language query describing what to extract.
-    Ollama analyzes the query and generates:
-      - Target proteins/genes (e.g., SIRT1, CYP3A4, BACE1)
-      - Interaction types (inhibition, activation, substrate, modulator, etc.)
-      - Related compounds/drugs
-      - Additional context keywords
-
-Stage 2 – Dynamic Regex Pre-filter
-    Generates target-specific patterns from Stage 1 config.
-    Broad, conservative pass retains any sentence that MIGHT be relevant.
-    False positives tolerated; false negatives avoided.
-
-Stage 3 – AI Extraction
-    Per-sentence structured extraction via Ollama → returns JSON with:
-    compound, target, interaction_type, mechanism, evidence, confidence,
-    and quantitative values.
-
-Stage 4 – Persistence
-    Per-file JSON in /results/json/
-    Merged master JSON + two CSVs (compound-level, interaction-level)
-
-Stage 5 – Dashboard
-    Self-contained HTML dashboard with tables, charts, and download buttons.
 """
 
 import os

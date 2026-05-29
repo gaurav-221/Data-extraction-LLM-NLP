@@ -1,4 +1,4 @@
-# Biomedical NLP Knowledge Extractor
+# LLM-NLP Data Extractor
 
 An AI-augmented, publication-grade pipeline for structured extraction of biomedical knowledge from scientific literature. Uses a hybrid **Regex + LLM** architecture to extract interaction data (e.g., drug-target, compound-CYP relationships) with high precision and recall.
 
